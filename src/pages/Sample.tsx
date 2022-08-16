@@ -6,11 +6,8 @@ export const Sample = () => {
       to={{
         pathname: `/`,
       }}
-      state={{
-        getby: 'sample2',
-      }}
     >
-      Sample2
+      home
     </Link>
   )
 }
