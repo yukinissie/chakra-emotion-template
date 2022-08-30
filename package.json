@@ -14,15 +14,15 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^2.2.4",
-    "@emotion/react": "^11",
-    "@emotion/styled": "^11",
+    "@emotion/react": "11.10.4",
+    "@emotion/styled": "11.10.4",
     "framer-motion": "^7.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
-    "@emotion/babel-plugin": "11.10.0",
+    "@emotion/babel-plugin": "11.10.2",
     "@types/react": "18.0.17",
     "@types/react-dom": "18.0.6",
     "@typescript-eslint/eslint-plugin": "5.33.0",
